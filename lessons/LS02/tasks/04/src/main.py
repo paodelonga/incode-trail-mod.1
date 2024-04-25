@@ -14,5 +14,5 @@ A média é:
 
 a = float(input("Digite a primeira nota: "))
 b = float(input("Digite a segunda nota: "))
-nota = ((a + b) / 2.00)
+nota = ((a+b) / 2.00)
 print(f"A média das notas é {nota}")

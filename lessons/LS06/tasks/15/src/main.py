@@ -15,4 +15,3 @@ for operador in operadores:
                 print(f"{a}{operador[0]}{b} = {operador[1](a, b)}")
         print("")
     print("")
-
